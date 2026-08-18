@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hello, I'm 陈航
 
-<!--
-**RiAmai/RiAmai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A software engineer focusing on C/C++ and Linux development with a strong emphasis on practical software engineering.
 
-Here are some ideas to get you started:
+> "Stay humble, build solid foundations, and solve real-world problems with clean, reliable code."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+- **Core Focus**: Primary expertise in **C/C++** and **Linux** environment programming, utilizing **CMake** for build systems and **Git** for version control.
+- **Engineering Practice**: Focused on industrial software architecture, applying Modern C++ (up to C++17), and implementing standardized engineering practices.
+- **Philosophy**: Value code maintainability, system stability, modular design, and team collaboration.
+- **Interests**: Outside of coding, I enjoy reading, playing various ball sports, and fitness to keep a balanced mind and healthy lifestyle.
+
+---
+
+### Tech Stack & Tools
+
+<!-- Badges -->
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++17" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
+</p>
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | C / Modern C++ (C++11 / C++14 / C++17) |
+| **Environment** | Linux / GCC / Clang / GDB |
+| **Build & Version Control** | CMake / Git / Shell |
+| **Focus Areas** | Industrial Software Architecture / Systems Engineering / Modular Design |
+
+---
+
+### GitHub Stats
+
+<!-- Replace your-github-username with your actual username -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+</p>
+
+---
+
+### Contact
+
+- **Email**: `riamai_c0@163.com`
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by! Feel free to connect or leave suggestions.</i>
+</p>
