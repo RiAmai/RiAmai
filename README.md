@@ -36,16 +36,6 @@ A software engineer focusing on C/C++ and Linux development with a strong emphas
 
 ---
 
-### GitHub Stats
-
-<!-- Replace your-github-username with your actual username -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
-</p>
-
----
-
 ### Contact
 
 - **Email**: `riamai_c0@163.com`
