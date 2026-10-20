@@ -1,4 +1,4 @@
-# 👋 Hello, I'm 陈航
+# 👋 Hello, I'm Hank Chen
 
 A software engineer focusing on C/C++ and Linux development with a strong emphasis on practical software engineering.
 
